@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+*.egg-info/
+.DS_Store
+.env
+
+# Keep folder structure but ignore large generated artifacts if desired
+# (left uncommented so the packaged zip includes a working demo model)
+# models/*.pkl
+# data/processed/*

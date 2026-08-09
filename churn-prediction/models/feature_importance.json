@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Contract_Month-to-month",
+    "importance": 0.106
+  },
+  {
+    "feature": "Contract_Two year",
+    "importance": 0.0868
+  },
+  {
+    "feature": "PaymentMethod_Electronic check",
+    "importance": 0.0617
+  },
+  {
+    "feature": "InternetService_Fiber optic",
+    "importance": 0.0569
+  },
+  {
+    "feature": "TechSupport_No",
+    "importance": 0.0407
+  },
+  {
+    "feature": "InternetService_No",
+    "importance": 0.0403
+  },
+  {
+    "feature": "TechSupport_No internet service",
+    "importance": 0.0386
+  },
+  {
+    "feature": "PaymentMethod_Mailed check",
+    "importance": 0.0356
+  },
+  {
+    "feature": "OnlineSecurity_Yes",
+    "importance": 0.0353
+  },
+  {
+    "feature": "Contract_One year",
+    "importance": 0.0337
+  },
+  {
+    "feature": "OnlineSecurity_No",
+    "importance": 0.0335
+  },
+  {
+    "feature": "Dependents_Yes",
+    "importance": 0.0312
+  },
+  {
+    "feature": "InternetService_DSL",
+    "importance": 0.0311
+  },
+  {
+    "feature": "PaymentMethod_Bank transfer (automatic)",
+    "importance": 0.0311
+  },
+  {
+    "feature": "StreamingTV_No",
+    "importance": 0.0262
+  }
+]
